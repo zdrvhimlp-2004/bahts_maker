@@ -29,3 +29,7 @@ mesin/_tmp/
 mesin/*.ttf
 __pycache__/
 ~$*
+
+# antarmuka grafis dan peluncurnya
+!/bahts_gui.py
+!/Mesin Bahts.bat
